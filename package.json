@@ -1,0 +1,10 @@
+{
+  "name": "event-tutorial",
+  "version": "0.0.0",
+  "devDependencies": {
+    "jasmine-node": "1.7.1"
+  },
+  "scripts": {
+    "test": "node ./node_modules/jasmine-node/lib/jasmine-node/cli.js spec"
+  }
+}
